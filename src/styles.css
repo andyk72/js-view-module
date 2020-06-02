@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+.item {
+  padding: 10px 5px;
+  background-color: gainsboro;
+  border-top: 1px solid dodgerblue;
+}
+
+.item:last-child {
+  border-bottom: 1px solid dodgerblue;
+}
+
+.title {
+  margin: 5px 0;
+  padding: 15px 5px;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+  background-color: darkseagreen;
+}
